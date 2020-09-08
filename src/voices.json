@@ -1,6 +1,35 @@
 {
     "voices": [
         {
+            "categoryName": "voice",
+            "categoryDescription": {
+                "zh-CN": "音声"
+            },
+            "voiceList": [
+                {
+                    "name": "八爪鱼",
+                    "path": "八爪鱼.mp3",
+                    "description": {
+                        "zh-CN": "八爪鱼"
+                    }
+                },
+                {
+                    "name": "伸懒腰",
+                    "path": "伸懒腰.mp3",
+                    "description": {
+                        "zh-CN": "伸懒腰"
+                    }
+                },
+                {
+                    "name": "这合理吗",
+                    "path": "这合理吗.mp3",
+                    "description": {
+                        "zh-CN": "这合理吗"
+                    }
+                }
+            ]
+        },
+        {
             "categoryName": "actmoe",
             "categoryDescription": {
                 "zh-CN": "念诗"

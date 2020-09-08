@@ -3,9 +3,9 @@ const zh_CN = {
         title: "孟按钮",
         info: "信息",
         null: "空",
-        // audioStaff: "音频剪辑: mchong111 CatCoffee",
-        // toGithub: "请在Github参与翻译、增补音频或提出建议",
-        // notOfficial: "本站为爱好者作品，和hololive官方没有关联",
+        audioStaff: "音频剪辑: 魔球群:1129436805",
+        toGithub: "请在Github参与翻译、增补音频或提出建议",
+        notOfficial: "本站为爱好者作品，和VirtuaReal官方没有关联",
         overlapTips: "重叠播放无法暂停，而且会创建大量线程，玩够了最好刷新一下"
     },
     action: {

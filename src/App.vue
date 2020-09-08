@@ -38,11 +38,11 @@
         <footer class="footer">
             <div class="container-fluid footer-content">
                 <div class="pull-right">
-                    <div class="text-right">原项目<a href="https://github.com/zyzsdy/aqua-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/zyzsdy/aqua-button.svg?style=social"/></a></div>
-                    <!-- <div class="text-right">本项目{{$t("info.notOfficial")}}</div> -->
+                    <div class="text-right"><a href="https://github.com/zyzsdy/aqua-button" target="_blank">原项目</a></div>
+                    <div class="text-right">本项目<a href="https://github.com/xuziang111/mahiru-button-src" target="_blank">{{$t("info.toGithub")}}</a></div>
+                    <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
-                <div>音频剪辑: 魔球群群友</div>
-                <!-- <div>{{$t("info.audioStaff")}}</div> -->
+                <div>{{$t("info.audioStaff")}}</div>
                 <!-- <div>Zyzsdy 2019-2020 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div> -->
             </div>
         </footer>
