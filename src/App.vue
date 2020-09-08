@@ -33,7 +33,7 @@
             </div>
         </nav>
         <div class="container-fluid main-content">
-            <router-view></router-view>
+            <HomePage></HomePage>
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
@@ -75,11 +75,13 @@ body{
 import Vue from 'vue'
 import Component from 'vue-class-component'
 import Modal from './components/modal.vue'
+import HomePage from './components/home.vue'
 //import fetchpost from './util/fetchpost'
 
 @Component({
     components:{
-        Modal
+        Modal,
+        HomePage
     }
 })
 class App extends Vue {
